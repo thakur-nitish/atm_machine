@@ -27,4 +27,13 @@
     "color": "black",
     "value": "#000"
   }
+  ,
+  {
+    "color": "Gray",
+    "value": "#808080"
+  },
+  {
+    "color": "Olive",
+    "value": "#808000"
+  }
 ]
